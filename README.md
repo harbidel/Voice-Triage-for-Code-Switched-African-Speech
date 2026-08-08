@@ -56,3 +56,6 @@ negation flips, and downstream triage agreement (incl. under-triage rate).
   clinical validation. It must be reviewed before any real deployment.
 - Language tagging for CS-boundary WER uses a lexicon heuristic, not a trained LID.
 - Sahara sync endpoint caps audio at 120s and 30 req/min.
+
+## Demo link
+https://huggingface.co/spaces/Harbidel/Voice-Triage
