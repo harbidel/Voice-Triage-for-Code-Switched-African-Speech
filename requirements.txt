@@ -1,0 +1,7 @@
+gradio>=6.0.0
+requests>=2.31.0
+faster-whisper>=1.0.3
+# uncomment if you use the HF pipeline as your third model
+# transformers>=4.44.0
+# torch>=2.2.0
+# datasets>=2.20.0
