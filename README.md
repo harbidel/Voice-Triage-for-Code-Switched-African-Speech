@@ -1,14 +1,3 @@
----
-title: Voice Triage for Code-Switched African Speech
-emoji: 🩺
-colorFrom: teal
-colorTo: red
-sdk: gradio
-sdk_version: 6.0.0
-app_file: app.py
-pinned: false
----
-
 # Voice Triage for Code-Switched African Speech
 
 A voice **agent** — not a transcriber. Patient speaks naturally in Nigerian Pidgin,
