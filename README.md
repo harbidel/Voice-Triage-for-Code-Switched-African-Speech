@@ -1,8 +1,8 @@
 # Voice Triage for Code-Switched African Speech
 
-A voice **agent** — not a transcriber. Patient speaks naturally in Nigerian Pidgin,
+A voice agent — not a transcriber. Patient speaks naturally in Nigerian Pidgin,
 Yoruba, Hausa or English; the system extracts a structured intake record, asks
-follow-up questions for missing fields, and assigns a **SATS** triage tier with a
+follow-up questions for missing fields, and assigns a SATS triage tier with a
 deterministic safety floor.
 
 ## Why this exists
