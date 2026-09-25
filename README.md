@@ -1,13 +1,13 @@
 # Voice Triage for Code-Switched African Speech
 
-A voice agent — not a transcriber. Patient speaks naturally in Nigerian Pidgin,
+A voice agent not a transcriber. Patient speaks naturally in Nigerian Pidgin,
 Yoruba, Hausa or English; the system extracts a structured intake record, asks
 follow-up questions for missing fields, and assigns a SATS triage tier with a
 deterministic safety floor.
 
 ## Why this exists
 Nurses at clinic intake re-ask the same questions across a language gap, by hand,
-all day. ASR alone doesn't fix that — a transcript still needs a human to turn it
+all day. ASR alone doesn't fix that a transcript still needs a human to turn it
 into a decision. This closes that loop.
 
 ## Architecture
